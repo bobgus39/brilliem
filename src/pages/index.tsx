@@ -7,13 +7,13 @@ import { Link } from "@heroui/link";
 import { title, subtitle } from "@/components/primitives";
 //import { GithubIcon } from "@/components/icons";
 import DefaultLayout from "@/layouts/default";
-//import modelEx1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/1761668175.png"
-import modelEx2 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/polabeck_cineastic_picture_of_middle_aged_woman_standing_in_her_216b9ffb-d624-4b48-ba40-281110cc5155.webp"
-import modelEx3 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/1758621292.png"
-//import modelEx4 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/Screenshot_2025-08-27_at_6.37.40_PM.webp"
-import imgIndustry1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/1761669487.png"
+//import modelEx1 from "../assets/1761668175.png"
+import modelEx2 from "../assets/polabeck1.webp"
+import modelEx3 from "../assets/1758621292.png"
+//import modelEx4 from "../assets/Screenshot_2025-08-27_at_6.37.40_PM.webp"
+import imgIndustry1 from "../assets/1761669487.png"
 import ScrollToContent from "@/components/ScrollContent";
-import vid1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/dale_movimiento_a_esta_chica_35wj7ma8x50mphyvb3vj_1.mp4"
+import vid1 from '../assets/dale_movimiento.mp4'
 
 export default function IndexPage() {
   return (

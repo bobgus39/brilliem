@@ -1,10 +1,10 @@
 import { title, subtitle } from "@/components/primitives";
 import DefaultLayout from "@/layouts/default";
-import img1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/IMG_3879.png"
-import img2 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/1761669327.png"
-import  ArrowIcon  from "/Users/macagus/Documents/Brilliant/Brilliant-./img/1761672689-removebg-preview.png";
-import vid1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/genera_un_video_a_partir_de_estas_dos_imagenes_udt68r53va5xuutvx9ar_1.mp4"
-import vid2 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/Image to video 丨 haz una transicion entre estos dos frames (online-video-cutter.com) (1).mp4"
+import img1 from "../assets/IMG_3879.png"
+import img2 from "../assets/1761669327.png"
+import  ArrowIcon  from "../assets/1761672689-removebg-preview.png";
+import vid1 from "../assets/genera_un_video_a_partir_de_estas_dos_imagenes_udt68r53va5xuutvx9ar_1.mp4"
+import vid2 from "../assets/Image to video 丨 haz una transicion entre estos dos frames (online-video-cutter.com) (1).mp4"
 
 export default function DocsPage() {
   return (

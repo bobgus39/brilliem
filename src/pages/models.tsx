@@ -1,8 +1,8 @@
 import { title } from "@/components/primitives";
 import DefaultLayout from "@/layouts/default";
-import modelEx1 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/polabeck_cineastic_picture_of_middle_aged_woman_standing_in_her_104c656d-979f-4f12-8116-7187b6a6e756.webp"
-import modelEx2 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/polabeck_cineastic_picture_of_middle_aged_woman_standing_in_her_adc4e81f-b77d-4008-9a13-be624240706f.webp"
-import modelEx5 from "/Users/macagus/Documents/Brilliant/Brilliant-./img/vervor229384874_a_gorgeous_young_woman_at_sunrise_000bb261-4a95-41da-b748-a92c773d136a.webp"  
+import modelEx1 from "../assets/polabeck_cineastic_picture_of_middle_aged_woman_standing_in_her_104c656d-979f-4f12-8116-7187b6a6e756.webp"
+import modelEx2 from "../assets/polabeck_cineastic_picture_of_middle_aged_woman_standing_in_her_adc4e81f-b77d-4008-9a13-be624240706f.webp"
+import modelEx5 from "../assets/vervor229384874_a_gorgeous_young_woman_at_sunrise_000bb261-4a95-41da-b748-a92c773d136a.webp"  
 
 export default function DocsPage() {
   return (
