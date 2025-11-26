@@ -6,5 +6,8 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tsconfigPaths(), tailwindcss()],
-  base: 'https://brilliem.com',
+  
 });
+
+
+//base: 'https://bobgus39.github.io/brilliem.com',
